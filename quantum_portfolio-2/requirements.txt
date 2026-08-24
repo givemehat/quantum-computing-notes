@@ -11,7 +11,7 @@ tensorflow>=2.21.0
 # ── Quantum computing ─────────────────────────────────────────────────────────
 qiskit>=2.5.1,<3.0
 qiskit-algorithms>=0.3
-qiskit-optimization>=0.6
+qiskit-optimization>=0.7.0
 
 # ── Optimisation ──────────────────────────────────────────────────────────────
 scipy>=1.10
