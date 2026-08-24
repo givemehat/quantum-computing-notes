@@ -1,6 +1,6 @@
 # ── Core data & numerical ─────────────────────────────────────────────────────
 streamlit>=1.61.1
-yfinance>=0.2
+yfinance>=1.6.0
 pandas>=3.0.5
 numpy>=2.5.2
 
