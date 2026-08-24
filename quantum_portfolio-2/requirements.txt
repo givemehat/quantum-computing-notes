@@ -17,4 +17,4 @@ qiskit-optimization>=0.6
 scipy>=1.10
 
 # ── Visualisation ─────────────────────────────────────────────────────────────
-plotly>=5.18
+plotly>=6.9.0
